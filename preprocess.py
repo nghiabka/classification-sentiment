@@ -194,6 +194,7 @@ if __name__ == '__main__':
     pickle.dump(y_train, open("./data_final/y_train.pkl", "wb"))
     pickle.dump(X_test, open("./data_final/X_test.pkl", "wb"))
     pickle.dump(y_test, open("./data_final/y_test.pkl", "wb"))
+#no come	
 '''
 '''
 
